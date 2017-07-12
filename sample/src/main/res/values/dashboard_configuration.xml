@@ -88,9 +88,9 @@
     </string-array>
 
     <!-- PAYPAL STUFF - SET BOTH STRINGS, OR IT WON'T WORK -->
-    <string name="paypal_email"></string>
+    <string name="paypal_email">jari.begus@hotmail.com</string>
     <!-- Paypal currency code (ie USD, or CAD); make sure this is a valid code-->
-    <string name="paypal_currency_code"></string>
+    <string name="paypal_currency_code">EUR</string>
 
 
     <!-- /*/*/*/*/*/*/*/*/*/*/*/*/ HOME/MAIN SECTION CONFIGURATION /*/*/*/*/*/*/*/*/*/*/*/*/-->
@@ -157,7 +157,7 @@
     True, means yes.
     False, means no.
     -->
-    <bool name="organize_icons_list">false</bool>
+    <bool name="organize_icons_list">true</bool>
 
     <!--
     Do you want the "ALL ICONS" tab to be generated automatically?
@@ -165,7 +165,7 @@
     True, means yes.
     False, means no.
     -->
-    <bool name="auto_generate_all_icons">true</bool>
+    <bool name="auto_generate_all_icons">false</bool>
 
     <!-- Setup the columns amount you want in different sections -->
     <!-- PHONES - PORTRAIT MODE -->

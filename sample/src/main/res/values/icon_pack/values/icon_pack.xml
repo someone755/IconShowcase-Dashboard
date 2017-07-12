@@ -47,9 +47,7 @@
         <item>reddit_is_fun_2</item>
         <item>youtube_2</item>
     </string-array>
-
-
-    <string-array name="icon_pack">
+    <string-array name="All">
         <item>adaway</item>
         <item>betterbatterystats</item>
         <item>brightness_tweak</item>
@@ -109,6 +107,7 @@
     <string-array name="tabs">
         <item>Latest</item>
         <item>Alternatives</item>
+        <item>All</item>
     </string-array>
 
 </resources>
