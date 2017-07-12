@@ -24,7 +24,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.3.1'
+        classpath 'com.android.tools.build:gradle:2.3.3'
         // TODO: Remove comment marks if you want to implement Firebase Notifications
         // classpath 'com.google.gms:google-services:3.0.0'
 

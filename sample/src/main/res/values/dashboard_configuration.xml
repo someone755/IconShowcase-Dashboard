@@ -21,7 +21,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!-- Option to enable Log messages-->
-    <bool name="debugging">true</bool>
+    <bool name="debugging">false</bool>
 
     <!--
     Main sections in the app.
@@ -36,12 +36,9 @@
     -->
     <string-array name="drawer_sections">
         <item>Previews</item>
-        <item>Wallpapers</item>
-        <item>Requests</item>
         <item>Apply</item>
         <item>FAQs</item>
-        <item>Zooper</item>
-        <item>Kustom</item>
+        <item>Requests</item>
     </string-array>
 
     <!-- Specify splashscreen color

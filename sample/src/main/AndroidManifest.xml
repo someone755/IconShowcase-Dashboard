@@ -41,7 +41,7 @@
 
         <!-- ShowcaseActivity -->
         <activity
-                android:name=".HomeActivity"
+                android:name="github.io.someone755.pxl.HomeActivity"
                 android:label="@string/app_name"
                 android:theme="@style/AppTheme.LaunchScreen">
 
@@ -330,7 +330,7 @@
         </provider>
 
         <activity
-                android:name=".ApplyShortcut"
+                android:name="github.io.someone755.pxl.ApplyShortcut"
                 android:theme="@style/EmptyActivity"
                 android:noHistory="true"
                 android:excludeFromRecents="true"/>

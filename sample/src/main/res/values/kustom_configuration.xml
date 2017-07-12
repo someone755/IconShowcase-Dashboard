@@ -27,12 +27,12 @@
     <string name="kustom_pack_description">Cool Kustom komponents, wallpapers and widgets.</string>
 
     <!-- Set this to true if you are going to include wallpapers for kustom. false if not -->
-    <bool name="includes_kustom_wallpapers">true</bool>
+    <bool name="includes_kustom_wallpapers">false</bool>
 
     <!-- Set this to true if you are going to include widgets for kustom. false if not -->
-    <bool name="includes_kustom_widgets">true</bool>
+    <bool name="includes_kustom_widgets">false</bool>
 
     <!-- Set this to true if your assets require Kolorette to work properly. False if not -->
-    <bool name="kustom_requires_kolorette">true</bool>
+    <bool name="kustom_requires_kolorette">false</bool>
 
 </resources>

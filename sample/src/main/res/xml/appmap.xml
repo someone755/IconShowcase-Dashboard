@@ -21,8 +21,17 @@
 <appmap>
 
     <!-- Contacts App -->
-    <item
+    <!--<item
             class="com.android.contacts.DialtactsContactsEntryActivity"
             name="people"/>
+    <item
+        class="com.google.android.gm"
+        name="gmail"/>
+    <item
+        class="com.google.android.youtube"
+        name="youtube_1"/>
+    <item
+        class="com.touchtype.swiftkey"
+        name="swiftkey"/>-->
 
 </appmap>

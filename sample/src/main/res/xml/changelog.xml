@@ -20,8 +20,9 @@
 
 <resources>
     <version title="New:"/>
-    <item text="Updated translations for more than 9 languages."/>
-    <item text="Added new license check system."/>
+    <item text="Version 0.0.2."/>
+    <item text="New icons."/>
+    <!--<item text="Added new license check system."/>
     <item text="Simplified some code."/>
     <item text="Added back requests limit and time limit."/>
 
@@ -32,5 +33,5 @@
     <item text="Wallpapers can be set to homescreen only, or lockscreen only, or both. (Only on Android 7+ devices)."/>
 
     <version title="Fixes:"/>
-    <item text="Fixed some crashes and general issues."/>
+    <item text="Fixed some crashes and general issues."/>-->
 </resources>

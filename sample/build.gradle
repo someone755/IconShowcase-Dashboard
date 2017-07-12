@@ -43,11 +43,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "jahirfiquitiva.apps.iconshowcase.demo"
+        applicationId "github.io.someone755.pxl"
         minSdkVersion 16
         targetSdkVersion TARGET_SDK
-        versionCode 1978
-        versionName "1.9.7.8"
+        versionCode 002
+        versionName "0.0.2"
         vectorDrawables.useSupportLibrary = true
     }
 

@@ -31,14 +31,14 @@
             android:shortcutLongLabel="@string/section_icon_request"
             tools:targetApi="n_mr1">
         <intent
-                android:targetPackage="jahirfiquitiva.apps.iconshowcase.demo"
+                android:targetPackage="pxl.github.someone755.pxl"
                 android:action="android.intent.action.VIEW"
-                android:targetClass="jahirfiquitiva.apps.iconshowcase.demo.HomeActivity"
+                android:targetClass="pxl.github.someone755.github.io.someone755.pxl.HomeActivity"
                 android:data="request_shortcut"/>
         <categories android:name="android.shortcut.conversation"/>
     </shortcut>
 
-    <shortcut
+   <!-- <shortcut
             android:icon="@drawable/wallpapers_shortcut"
             android:enabled="true"
             android:shortcutId="static_wallpapers_shortcut"
@@ -46,12 +46,12 @@
             android:shortcutLongLabel="@string/section_wallpapers"
             tools:targetApi="n_mr1">
         <intent
-                android:targetPackage="jahirfiquitiva.apps.iconshowcase.demo"
+                android:targetPackage="pxl.github.someone755.pxl"
                 android:action="android.intent.action.VIEW"
-                android:targetClass="jahirfiquitiva.apps.iconshowcase.demo.HomeActivity"
+                android:targetClass="pxl.github.someone755.github.io.someone755.pxl.HomeActivity"
                 android:data="wallpapers_shortcut"/>
         <categories android:name="android.shortcut.conversation"/>
-    </shortcut>
+    </shortcut>-->
 
     <shortcut
             android:icon="@drawable/apply_shortcut"
@@ -61,9 +61,9 @@
             android:shortcutLongLabel="@string/section_apply"
             tools:targetApi="n_mr1">
         <intent
-                android:targetPackage="jahirfiquitiva.apps.iconshowcase.demo"
+                android:targetPackage="pxl.github.someone755.pxl"
                 android:action="android.intent.action.VIEW"
-                android:targetClass="jahirfiquitiva.apps.iconshowcase.demo.ApplyShortcut"
+                android:targetClass="pxl.github.someone755.github.io.someone755.pxl.ApplyShortcut"
                 android:data="apply_shortcut"/>
         <categories android:name="android.shortcut.conversation"/>
     </shortcut>
