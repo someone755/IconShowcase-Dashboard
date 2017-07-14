@@ -23,13 +23,13 @@
     <!-- ShowcaseActivity Strings -->
     <string name="app_name">pxl</string>
     <string name="app_long_name">pxl - Icon Pack</string>
-    <string name="theme_description">pxl is a simple icon pack.</string>
+    <string name="theme_description">pxl is a simple handcrafted icon pack that deals away with details and high resolutions</string>
 
     <!-- Muzei Stuff -->
     <string name="artsource_name">@string/app_name</string>
-    <string name="artsource_desc">Some cool wallpapers</string>
+    <string name="artsource_desc">Wallpapers from the pxl app.</string>
 
-    <string name="wallpapers_json_link">https://github.com/jahirfiquitiva/Website-Resources/raw/master/iconshowcase/iconshowcase.json</string>
+    <string name="wallpapers_json_link">https://someone755.github.io/wallpapers/wallpapers.json</string>
 
     <!-- Icon Pack designer/owner e-mail -->
     <string name="email_id">jari.begus@hotmail.com</string>
