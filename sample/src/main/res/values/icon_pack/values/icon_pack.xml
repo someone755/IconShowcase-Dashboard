@@ -2,61 +2,85 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <string-array name="Latest">
-        <item>adaway</item>
-        <item>betterbatterystats</item>
-        <item>brightness_tweak</item>
-        <item>cf_lumen</item>
-        <item>cm_audiofx</item>
-        <item>google_analytics</item>
-        <item>google_calendar</item>
-        <item>google_calendar_1</item>
-        <item>google_calendar_10</item>
-        <item>google_calendar_11</item>
-        <item>google_calendar_12</item>
-        <item>google_calendar_13</item>
-        <item>google_calendar_14</item>
-        <item>google_calendar_15</item>
-        <item>google_calendar_16</item>
-        <item>google_calendar_17</item>
-        <item>google_calendar_18</item>
-        <item>google_calendar_19</item>
-        <item>google_calendar_2</item>
-        <item>google_calendar_20</item>
-        <item>google_calendar_21</item>
-        <item>google_calendar_22</item>
-        <item>google_calendar_23</item>
-        <item>google_calendar_24</item>
-        <item>google_calendar_25</item>
-        <item>google_calendar_26</item>
-        <item>google_calendar_27</item>
-        <item>google_calendar_28</item>
-        <item>google_calendar_29</item>
-        <item>google_calendar_3</item>
-        <item>google_calendar_30</item>
-        <item>google_calendar_31</item>
-        <item>google_calendar_4</item>
-        <item>google_calendar_5</item>
-        <item>google_calendar_6</item>
-        <item>google_calendar_7</item>
-        <item>google_calendar_8</item>
-        <item>google_calendar_9</item>
-        <item>holo_calculator</item>
+        <item>camera</item>
+        <item>clock</item>
+        <item>colordict</item>
+        <item>contacts</item>
+        <item>cycledroid</item>
+        <item>discord</item>
+        <item>docs</item>
+        <item>drive</item>
+        <item>fdroid</item>
+        <item>files</item>
+        <item>financius</item>
+        <item>fm_radio</item>
+        <item>gallery</item>
+        <item>hangouts</item>
+        <item>imgur</item>
+        <item>inbox</item>
+        <item>keep</item>
+        <item>leandroid</item>
+        <item>lite</item>
+        <item>lucky_patcher</item>
+        <item>maps</item>
+        <item>messages</item>
+        <item>monospace</item>
+        <item>moon_plus_reader</item>
+        <item>music</item>
+        <item>mx_player</item>
+        <item>mx_player_alt</item>
+        <item>nova_launcher</item>
+        <item>nova_launcher_prime</item>
+        <item>phone</item>
+        <item>phonograph</item>
+        <item>photos</item>
+        <item>play_games</item>
+        <item>play_store</item>
+        <item>recorder</item>
+        <item>sd_maid</item>
+        <item>settings</item>
+        <item>sim_toolkit</item>
+        <item>sleep</item>
+        <item>sms_backup_and_restore</item>
+        <item>solid_explorer</item>
+        <item>supersu</item>
+        <item>sync</item>
+        <item>telegram</item>
+        <item>titanium_backup</item>
     </string-array>
+
     <string-array name="Alternatives">
-        <item>kernel_adiutor_2</item>
-        <item>reddit_is_fun_2</item>
-        <item>youtube_2</item>
+        <item>kernel_adiutor_alt</item>
+        <item>mx_player_alt</item>
+        <item>reddit_is_fun_alt</item>
+        <item>youtube_alt</item>
     </string-array>
+
     <string-array name="All">
         <item>adaway</item>
+        <item>analytics</item>
+        <item>audiofx</item>
         <item>betterbatterystats</item>
         <item>brightness_tweak</item>
+        <item>calculator</item>
+        <item>camera</item>
         <item>cf_lumen</item>
-        <item>cm_audiofx</item>
+        <item>chrome</item>
+        <item>clock</item>
+        <item>colordict</item>
+        <item>contacts</item>
+        <item>cycledroid</item>
+        <item>discord</item>
+        <item>docs</item>
+        <item>drive</item>
         <item>facebook_messenger</item>
+        <item>fdroid</item>
+        <item>files</item>
+        <item>financius</item>
         <item>firefox</item>
+        <item>fm_radio</item>
+        <item>gallery</item>
         <item>gmail</item>
-        <item>google_analytics</item>
         <item>google_calendar</item>
         <item>google_calendar_1</item>
         <item>google_calendar_10</item>
@@ -89,19 +113,50 @@
         <item>google_calendar_7</item>
         <item>google_calendar_8</item>
         <item>google_calendar_9</item>
-        <item>google_chrome</item>
-        <item>holo_calculator</item>
+        <item>hangouts</item>
+        <item>imgur</item>
+        <item>inbox</item>
         <item>instagram</item>
-        <item>kernel_adiutor_1</item>
-        <item>kernel_adiutor_2</item>
-        <item>lightning_browser</item>
-        <item>reddit_is_fun_1</item>
-        <item>reddit_is_fun_2</item>
+        <item>keep</item>
+        <item>kernel_adiutor</item>
+        <item>kernel_adiutor_alt</item>
+        <item>leandroid</item>
+        <item>lightning</item>
+        <item>lite</item>
+        <item>lucky_patcher</item>
+        <item>maps</item>
+        <item>messages</item>
+        <item>messenger</item>
+        <item>monospace</item>
+        <item>moon_plus_reader</item>
+        <item>music</item>
+        <item>mx_player</item>
+        <item>mx_player_alt</item>
+        <item>nova_launcher</item>
+        <item>nova_launcher_prime</item>
+        <item>phone</item>
+        <item>phonograph</item>
+        <item>photos</item>
+        <item>play_games</item>
+        <item>play_store</item>
+        <item>recorder</item>
+        <item>reddit_is_fun</item>
+        <item>reddit_is_fun_alt</item>
+        <item>sd_maid</item>
+        <item>settings</item>
+        <item>sim_toolkit</item>
+        <item>sleep</item>
+        <item>sms_backup_and_restore</item>
+        <item>solid_explorer</item>
         <item>steam</item>
         <item>strava</item>
-        <item>swiftkey</item>
-        <item>youtube_1</item>
-        <item>youtube_2</item>
+        <item>supersu</item>
+        <item>swiftkey_keyboard</item>
+        <item>sync</item>
+        <item>telegram</item>
+        <item>titanium_backup</item>
+        <item>youtube</item>
+        <item>youtube_alt</item>
     </string-array>
 
     <string-array name="tabs">
