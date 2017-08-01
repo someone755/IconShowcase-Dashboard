@@ -20,9 +20,8 @@
 
 <resources>
     <version title="New:"/>
-    <item text="Version 0.0.3."/>
+    <item text="Version 0.0.4"/>
     <item text="New icons"/>
-    <item text="Wallpaper support"/>
     <!--<item text="Added new license check system."/>
     <item text="Simplified some code."/>
     <item text="Added back requests limit and time limit."/>
