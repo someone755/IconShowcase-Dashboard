@@ -38,7 +38,7 @@
         <categories android:name="android.shortcut.conversation"/>
     </shortcut>
 
-   <!-- <shortcut
+   <shortcut
             android:icon="@drawable/wallpapers_shortcut"
             android:enabled="true"
             android:shortcutId="static_wallpapers_shortcut"
@@ -51,7 +51,7 @@
                 android:targetClass="pxl.github.someone755.github.io.someone755.pxl.HomeActivity"
                 android:data="wallpapers_shortcut"/>
         <categories android:name="android.shortcut.conversation"/>
-    </shortcut>-->
+    </shortcut>
 
     <shortcut
             android:icon="@drawable/apply_shortcut"

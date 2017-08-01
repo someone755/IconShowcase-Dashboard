@@ -189,6 +189,9 @@
     <item
         class="com.android.vending.billing.InAppBillingService.LOCK.MainActivity-Original"
         name="lucky_patcher"/>
+    <item
+        class="com.android.vending.billing.InAppBillingService.CLON.MainActivity-Original"
+        name="lucky_patcher"/>
 
     <!-- MX Player -->
     <item
@@ -387,9 +390,83 @@
     <item
         class="com.topjohnwu.magisk.MainActivity"
         name="magisk_manager"/>
+    <item
+        class="com.topjohnwu.magisk.SplashActivity"
+        name="magisk_manager"/>
 
     <!-- Messaging -->
     <item
         class="com.android.messaging.ui.conversationlist.ConversationListActivity"
         name="messaging"/>
+
+    <!-- 1010! Klooni -->
+    <item
+        class="io.github.lonamiwebs.klooni.AndroidLauncher"
+        name="a_1010_klooni"/>
+
+    <!-- Duolingo -->
+    <item
+        class="com.duolingo.app.LoginActivity"
+        name="duolingo"/>
+
+    <!-- Hypocam -->
+    <item
+        class="com.xnview.hypocam.MainActivity"
+        name="hypocam"/>
+
+    <!-- JotterPad -->
+    <item
+        class="com.jotterpad.x.MainActivity"
+        name="jotterpad"/>
+
+    <!-- Learn C++ -->
+    <item
+        class="com.sololearn.app.MainActivity"
+        name="learn_cpp"/>
+
+    <!-- Learn Java -->
+    <item
+        class="com.sololearn.app.MainActivity"
+        name="learn_java"/>
+
+    <!-- Loop Habit Tracker -->
+    <item
+        class="org.isoron.uhabits.MainActivity"
+        name="loop_habit_tracker"/>
+
+    <!-- Lucidity -->
+    <item
+        class="ch.b3nz.lucidity.activities.SplashActivity"
+        name="lucidity"/>
+
+    <!-- Play Music -->
+    <item
+        class="com.android.music.activitymanagement.TopLevelActivity"
+        name="play_music"/>
+
+    <!-- Slide -->
+    <item
+        class="me.ccrama.redditslide.Activities.Slide"
+        name="slide"/>
+
+    <!-- Snapchat -->
+    <item
+        class="com.snapchat.android.LandingPageActivity"
+        name="snapchat"/>
+
+    <!-- Terminal -->
+    <item
+        class="com.android.terminal.TerminalActivity"
+        name="terminal"/>
+
+    <!-- WriterP -->
+    <item
+        class="co.easy4u.writer.ui.DirListActivity"
+        name="writerp"/>
+
+    <!-- iA Writer -->
+    <item
+        class="net.ia.iawriter.utilities.SplashActivity"
+        name="ia_writer"/>
+
 </appmap>

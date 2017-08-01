@@ -22,15 +22,27 @@
     <version>1</version>
 
     <category title="Latest"/>
+    <item drawable="a_1010_klooni"/>
     <item drawable="browser"/>
     <item drawable="calculator_aosp"/>
     <item drawable="calendar"/>
+    <item drawable="duolingo"/>
     <item drawable="email"/>
     <item drawable="gallery_aosp"/>
+    <item drawable="hypocam"/>
+    <item drawable="ia_writer"/>
+    <item drawable="jotterpad"/>
+    <item drawable="learn_cpp"/>
+    <item drawable="learn_java"/>
+    <item drawable="loop_habit_tracker"/>
+    <item drawable="lucidity"/>
     <item drawable="magisk_manager"/>
     <item drawable="messaging"/>
-
-
+    <item drawable="play_music"/>
+    <item drawable="slide"/>
+    <item drawable="snapchat"/>
+    <item drawable="terminal"/>
+    <item drawable="writerp"/>
 
     <category title="Alternatives"/>
     <item drawable="kernel_adiutor_alt"/>
@@ -40,6 +52,7 @@
 
 
     <category title="All"/>
+    <item drawable="a_1010_klooni"/>
     <item drawable="adaway"/>
     <item drawable="analytics"/>
     <item drawable="audiofx"/>
@@ -59,6 +72,7 @@
     <item drawable="discord"/>
     <item drawable="docs"/>
     <item drawable="drive"/>
+    <item drawable="duolingo"/>
     <item drawable="email"/>
     <item drawable="fdroid"/>
     <item drawable="files"/>
@@ -101,15 +115,22 @@
     <item drawable="google_calendar_8"/>
     <item drawable="google_calendar_9"/>
     <item drawable="hangouts"/>
+    <item drawable="hypocam"/>
+    <item drawable="ia_writer"/>
     <item drawable="imgur"/>
     <item drawable="inbox"/>
     <item drawable="instagram"/>
+    <item drawable="jotterpad"/>
     <item drawable="keep"/>
     <item drawable="kernel_adiutor"/>
     <item drawable="kernel_adiutor_alt"/>
     <item drawable="leandroid"/>
+    <item drawable="learn_cpp"/>
+    <item drawable="learn_java"/>
     <item drawable="lightning"/>
     <item drawable="lite"/>
+    <item drawable="loop_habit_tracker"/>
+    <item drawable="lucidity"/>
     <item drawable="lucky_patcher"/>
     <item drawable="magisk_manager"/>
     <item drawable="maps"/>
@@ -127,6 +148,7 @@
     <item drawable="phonograph"/>
     <item drawable="photos"/>
     <item drawable="play_games"/>
+    <item drawable="play_music"/>
     <item drawable="play_store"/>
     <item drawable="recorder"/>
     <item drawable="reddit_is_fun"/>
@@ -135,7 +157,9 @@
     <item drawable="settings"/>
     <item drawable="sim_toolkit"/>
     <item drawable="sleep"/>
+    <item drawable="slide"/>
     <item drawable="sms_backup_and_restore"/>
+    <item drawable="snapchat"/>
     <item drawable="solid_explorer"/>
     <item drawable="steam"/>
     <item drawable="strava"/>
@@ -143,7 +167,9 @@
     <item drawable="swiftkey_keyboard"/>
     <item drawable="sync"/>
     <item drawable="telegram"/>
+    <item drawable="terminal"/>
     <item drawable="titanium_backup"/>
+    <item drawable="writerp"/>
     <item drawable="youtube"/>
     <item drawable="youtube_alt"/>
 </resources>

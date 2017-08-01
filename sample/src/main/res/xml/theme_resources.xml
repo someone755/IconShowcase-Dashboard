@@ -195,6 +195,10 @@
     <AppIcon
         name="com.android.vending.billing.InAppBillingService.LOCK/com.android.vending.billing.InAppBillingService.LOCK.MainActivity-Original"
         image="lucky_patcher"/>
+    <AppIcon
+        name="com.android.vending.billing.InAppBillingService.CLON/com.android.vending.billing.InAppBillingService.CLON.MainActivity-Original"
+        image="lucky_patcher"/>
+
 
     <!-- MX Player -->
     <AppIcon
@@ -380,9 +384,82 @@
     <AppIcon
         name="com.topjohnwu.magisk/com.topjohnwu.magisk.MainActivity"
         image="magisk_manager"/>
+    <AppIcon
+        name="com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity"
+        image="magisk_manager"/>
 
     <!-- Messaging -->
     <AppIcon
         name="com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity"
         image="messaging"/>
+
+    <!-- 1010! Klooni -->
+    <AppIcon
+        name="io.github.lonamiwebs.klooni/io.github.lonamiwebs.klooni.AndroidLauncher"
+        image="a_1010_klooni"/>
+
+    <!-- Duolingo -->
+    <AppIcon
+        name="com.duolingo/com.duolingo.app.LoginActivity"
+        image="duolingo"/>
+
+    <!-- Hypocam -->
+    <AppIcon
+        name="com.xnview.hypocam/com.xnview.hypocam.MainActivity"
+        image="hypocam"/>
+
+    <!-- JotterPad -->
+    <AppIcon
+        name="com.jotterpad.x/com.jotterpad.x.MainActivity"
+        image="jotterpad"/>
+
+    <!-- Learn C++ -->
+    <AppIcon
+        name="com.sololearn.cplusplus/com.sololearn.app.MainActivity"
+        image="learn_cpp"/>
+
+    <!-- Learn Java -->
+    <AppIcon
+        name="com.sololearn.java/com.sololearn.app.MainActivity"
+        image="learn_java"/>
+
+    <!-- Loop Habit Tracker -->
+    <AppIcon
+        name="org.isoron.uhabits/org.isoron.uhabits.MainActivity"
+        image="loop_habit_tracker"/>
+
+    <!-- Lucidity -->
+    <AppIcon
+        name="ch.b3nz.lucidity/ch.b3nz.lucidity.activities.SplashActivity"
+        image="lucidity"/>
+
+    <!-- Play Music -->
+    <AppIcon
+        name="com.google.android.music/com.android.music.activitymanagement.TopLevelActivity"
+        image="play_music"/>
+
+    <!-- Slide -->
+    <AppIcon
+        name="me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide"
+        image="slide"/>
+
+    <!-- Snapchat -->
+    <AppIcon
+        name="com.snapchat.android/com.snapchat.android.LandingPageActivity"
+        image="snapchat"/>
+
+    <!-- Terminal -->
+    <AppIcon
+        name="com.android.terminal/com.android.terminal.TerminalActivity"
+        image="terminal"/>
+
+    <!-- WriterP -->
+    <AppIcon
+        name="co.easy4u.writer/co.easy4u.writer.ui.DirListActivity"
+        image="writerp"/>
+
+    <!-- iA Writer -->
+    <AppIcon
+        name="net.ia.iawriter/net.ia.iawriter.utilities.SplashActivity"
+        image="ia_writer"/>
 </Theme>

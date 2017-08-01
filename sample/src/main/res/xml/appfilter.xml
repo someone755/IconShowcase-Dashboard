@@ -193,6 +193,9 @@
     <item
         component="ComponentInfo{com.android.vending.billing.InAppBillingService.LOCK/com.android.vending.billing.InAppBillingService.LOCK.MainActivity-Original}"
         drawable="lucky_patcher"/>
+    <item
+        component="ComponentInfo{com.android.vending.billing.InAppBillingService.CLON/com.android.vending.billing.InAppBillingService.CLON.MainActivity-Original}"
+        drawable="lucky_patcher"/>
 
     <!-- MX Player -->
     <item
@@ -381,10 +384,83 @@
     <item
         component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.MainActivity}"
         drawable="magisk_manager"/>
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}"
+        drawable="magisk_manager"/>
 
     <!-- Messaging -->
     <item
         component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}"
         drawable="messaging"/>
+
+    <!-- 1010! Klooni -->
+    <item
+        component="ComponentInfo{io.github.lonamiwebs.klooni/io.github.lonamiwebs.klooni.AndroidLauncher}"
+        drawable="a_1010_klooni"/>
+
+    <!-- Duolingo -->
+    <item
+        component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}"
+        drawable="duolingo"/>
+
+    <!-- Hypocam -->
+    <item
+        component="ComponentInfo{com.xnview.hypocam/com.xnview.hypocam.MainActivity}"
+        drawable="hypocam"/>
+
+    <!-- JotterPad -->
+    <item
+        component="ComponentInfo{com.jotterpad.x/com.jotterpad.x.MainActivity}"
+        drawable="jotterpad"/>
+
+    <!-- Learn C++ -->
+    <item
+        component="ComponentInfo{com.sololearn.cplusplus/com.sololearn.app.MainActivity}"
+        drawable="learn_cpp"/>
+
+    <!-- Learn Java -->
+    <item
+        component="ComponentInfo{com.sololearn.java/com.sololearn.app.MainActivity}"
+        drawable="learn_java"/>
+
+    <!-- Loop Habit Tracker -->
+    <item
+        component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}"
+        drawable="loop_habit_tracker"/>
+
+    <!-- Lucidity -->
+    <item
+        component="ComponentInfo{ch.b3nz.lucidity/ch.b3nz.lucidity.activities.SplashActivity}"
+        drawable="lucidity"/>
+
+    <!-- Play Music -->
+    <item
+        component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}"
+        drawable="play_music"/>
+
+    <!-- Slide -->
+    <item
+        component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}"
+        drawable="slide"/>
+
+    <!-- Snapchat -->
+    <item
+        component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}"
+        drawable="snapchat"/>
+
+    <!-- Terminal -->
+    <item
+        component="ComponentInfo{com.android.terminal/com.android.terminal.TerminalActivity}"
+        drawable="terminal"/>
+
+    <!-- WriterP -->
+    <item
+        component="ComponentInfo{co.easy4u.writer/co.easy4u.writer.ui.DirListActivity}"
+        drawable="writerp"/>
+
+    <!-- iA Writer -->
+    <item
+        component="ComponentInfo{net.ia.iawriter/net.ia.iawriter.utilities.SplashActivity}"
+        drawable="ia_writer"/>
 
 </resources>

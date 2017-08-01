@@ -2,13 +2,29 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <string-array name="Latest">
+        <item>a_1010_klooni</item>
         <item>browser</item>
         <item>calculator_aosp</item>
         <item>calendar</item>
+        <item>duolingo</item>
         <item>email</item>
         <item>gallery_aosp</item>
+        <item>gallery_aosp</item>
+        <item>hypocam</item>
+        <item>ia_writer</item>
+        <item>jotterpad</item><item>browser</item>
+        <item>learn_cpp</item>
+        <item>learn_java</item>
+        <item>loop_habit_tracker</item>
+        <item>lucidity</item>
         <item>magisk_manager</item>
         <item>messaging</item>
+        <item>play_music</item><item>browser</item>
+        <item>slide</item>
+        <item>snapchat</item>
+        <item>terminal</item>
+        <item>writerp</item>
+
     </string-array>
 
     <string-array name="Alternatives">
@@ -19,6 +35,7 @@
     </string-array>
 
     <string-array name="All">
+        <item>a_1010_klooni</item>
         <item>adaway</item>
         <item>analytics</item>
         <item>audiofx</item>
@@ -38,6 +55,7 @@
         <item>discord</item>
         <item>docs</item>
         <item>drive</item>
+        <item>duolingo</item>
         <item>email</item>
         <item>facebook_messenger</item>
         <item>fdroid</item>
@@ -47,9 +65,9 @@
         <item>fm_radio</item>
         <item>gallery</item>
         <item>gallery_aosp</item>
+        <item>gallery_aosp</item>
         <item>gmail</item>
         <item>google_calendar</item>
-        <item>google_calendar_1</item>
         <item>google_calendar_10</item>
         <item>google_calendar_11</item>
         <item>google_calendar_12</item>
@@ -60,7 +78,7 @@
         <item>google_calendar_17</item>
         <item>google_calendar_18</item>
         <item>google_calendar_19</item>
-        <item>google_calendar_2</item>
+        <item>google_calendar_1</item>
         <item>google_calendar_20</item>
         <item>google_calendar_21</item>
         <item>google_calendar_22</item>
@@ -71,9 +89,10 @@
         <item>google_calendar_27</item>
         <item>google_calendar_28</item>
         <item>google_calendar_29</item>
-        <item>google_calendar_3</item>
+        <item>google_calendar_2</item>
         <item>google_calendar_30</item>
         <item>google_calendar_31</item>
+        <item>google_calendar_3</item>
         <item>google_calendar_4</item>
         <item>google_calendar_5</item>
         <item>google_calendar_6</item>
@@ -81,21 +100,28 @@
         <item>google_calendar_8</item>
         <item>google_calendar_9</item>
         <item>hangouts</item>
+        <item>hypocam</item>
+        <item>ia_writer</item>
         <item>imgur</item>
         <item>inbox</item>
         <item>instagram</item>
+        <item>jotterpad</item><item>browser</item>
         <item>keep</item>
         <item>kernel_adiutor</item>
         <item>kernel_adiutor_alt</item>
         <item>leandroid</item>
+        <item>learn_cpp</item>
+        <item>learn_java</item>
         <item>lightning</item>
         <item>lite</item>
+        <item>loop_habit_tracker</item>
+        <item>lucidity</item>
         <item>lucky_patcher</item>
         <item>magisk_manager</item>
         <item>maps</item>
         <item>messages</item>
-        <item>messenger</item>
         <item>messaging</item>
+        <item>messenger</item>
         <item>monospace</item>
         <item>moon_plus_reader</item>
         <item>music</item>
@@ -107,6 +133,7 @@
         <item>phonograph</item>
         <item>photos</item>
         <item>play_games</item>
+        <item>play_music</item><item>browser</item>
         <item>play_store</item>
         <item>recorder</item>
         <item>reddit_is_fun</item>
@@ -115,7 +142,9 @@
         <item>settings</item>
         <item>sim_toolkit</item>
         <item>sleep</item>
+        <item>slide</item>
         <item>sms_backup_and_restore</item>
+        <item>snapchat</item>
         <item>solid_explorer</item>
         <item>steam</item>
         <item>strava</item>
@@ -123,7 +152,9 @@
         <item>swiftkey_keyboard</item>
         <item>sync</item>
         <item>telegram</item>
+        <item>terminal</item>
         <item>titanium_backup</item>
+        <item>writerp</item>
         <item>youtube</item>
         <item>youtube_alt</item>
     </string-array>
