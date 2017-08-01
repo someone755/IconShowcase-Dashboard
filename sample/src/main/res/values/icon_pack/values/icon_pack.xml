@@ -2,51 +2,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <string-array name="Latest">
-        <item>camera</item>
-        <item>clock</item>
-        <item>colordict</item>
-        <item>contacts</item>
-        <item>cycledroid</item>
-        <item>discord</item>
-        <item>docs</item>
-        <item>drive</item>
-        <item>fdroid</item>
-        <item>files</item>
-        <item>financius</item>
-        <item>fm_radio</item>
-        <item>gallery</item>
-        <item>hangouts</item>
-        <item>imgur</item>
-        <item>inbox</item>
-        <item>keep</item>
-        <item>leandroid</item>
-        <item>lite</item>
-        <item>lucky_patcher</item>
-        <item>maps</item>
-        <item>messages</item>
-        <item>monospace</item>
-        <item>moon_plus_reader</item>
-        <item>music</item>
-        <item>mx_player</item>
-        <item>mx_player_alt</item>
-        <item>nova_launcher</item>
-        <item>nova_launcher_prime</item>
-        <item>phone</item>
-        <item>phonograph</item>
-        <item>photos</item>
-        <item>play_games</item>
-        <item>play_store</item>
-        <item>recorder</item>
-        <item>sd_maid</item>
-        <item>settings</item>
-        <item>sim_toolkit</item>
-        <item>sleep</item>
-        <item>sms_backup_and_restore</item>
-        <item>solid_explorer</item>
-        <item>supersu</item>
-        <item>sync</item>
-        <item>telegram</item>
-        <item>titanium_backup</item>
+        <item>browser</item>
+        <item>calculator_aosp</item>
+        <item>calendar</item>
+        <item>email</item>
+        <item>gallery_aosp</item>
+        <item>magisk_manager</item>
+        <item>messaging</item>
     </string-array>
 
     <string-array name="Alternatives">
@@ -62,7 +24,10 @@
         <item>audiofx</item>
         <item>betterbatterystats</item>
         <item>brightness_tweak</item>
+        <item>browser</item>
         <item>calculator</item>
+        <item>calculator_aosp</item>
+        <item>calendar</item>
         <item>camera</item>
         <item>cf_lumen</item>
         <item>chrome</item>
@@ -73,6 +38,7 @@
         <item>discord</item>
         <item>docs</item>
         <item>drive</item>
+        <item>email</item>
         <item>facebook_messenger</item>
         <item>fdroid</item>
         <item>files</item>
@@ -80,6 +46,7 @@
         <item>firefox</item>
         <item>fm_radio</item>
         <item>gallery</item>
+        <item>gallery_aosp</item>
         <item>gmail</item>
         <item>google_calendar</item>
         <item>google_calendar_1</item>
@@ -124,9 +91,11 @@
         <item>lightning</item>
         <item>lite</item>
         <item>lucky_patcher</item>
+        <item>magisk_manager</item>
         <item>maps</item>
         <item>messages</item>
         <item>messenger</item>
+        <item>messaging</item>
         <item>monospace</item>
         <item>moon_plus_reader</item>
         <item>music</item>

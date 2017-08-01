@@ -353,4 +353,43 @@
         class="com.andrewshu.android.reddit.MainActivity"
         name="reddit_is_fun"/>
 
+    <!-- Browser -->
+    <item
+        class="org.lineageos.jelly.MainActivity"
+        name="browser"/>
+
+    <!-- Calculator -->
+    <item
+        class="com.android.calculator2.Calculator"
+        name="calculator_aosp"/>
+
+    <!-- Calendar -->
+    <item
+        class="com.android.calendar.AllInOneActivity"
+        name="calendar"/>
+
+    <!-- Clock -->
+    <item
+        class="com.android.deskclock.DeskClock"
+        name="clock"/>
+
+    <!-- Email -->
+    <item
+        class="com.android.email.activity.Welcome"
+        name="email"/>
+
+    <!-- Gallery -->
+    <item
+        class="com.android.gallery3d.app.GalleryActivity"
+        name="gallery_aosp"/>
+
+    <!-- Magisk Manager -->
+    <item
+        class="com.topjohnwu.magisk.MainActivity"
+        name="magisk_manager"/>
+
+    <!-- Messaging -->
+    <item
+        class="com.android.messaging.ui.conversationlist.ConversationListActivity"
+        name="messaging"/>
 </appmap>

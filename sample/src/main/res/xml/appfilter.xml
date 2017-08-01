@@ -347,4 +347,44 @@
         component="ComponentInfo{com.andrewshu.android.reddit/com.andrewshu.android.reddit.MainActivity}"
         drawable="reddit_is_fun"/>
 
+    <!-- Browser -->
+    <item
+        component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}"
+        drawable="browser"/>
+
+    <!-- Calculator -->
+    <item
+        component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}"
+        drawable="calculator_aosp"/>
+
+    <!-- Calendar -->
+    <item
+        component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar"/>
+
+    <!-- Clock -->
+    <item
+        component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="clock"/>
+
+    <!-- Email -->
+    <item
+        component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}"
+        drawable="email"/>
+
+    <!-- Gallery -->
+    <item
+        component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}"
+        drawable="gallery_aosp"/>
+
+    <!-- Magisk Manager -->
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.MainActivity}"
+        drawable="magisk_manager"/>
+
+    <!-- Messaging -->
+    <item
+        component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}"
+        drawable="messaging"/>
+
 </resources>

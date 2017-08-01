@@ -346,4 +346,43 @@
         name="com.andrewshu.android.reddit/com.andrewshu.android.reddit.MainActivity"
         image="reddit_is_fun"/>
 
+    <!-- Browser -->
+    <AppIcon
+        name="org.lineageos.jelly/org.lineageos.jelly.MainActivity"
+        image="browser"/>
+
+    <!-- Calculator -->
+    <AppIcon
+        name="com.android.calculator2/com.android.calculator2.Calculator"
+        image="calculator_aosp"/>
+
+    <!-- Calendar -->
+    <AppIcon
+        name="com.android.calendar/com.android.calendar.AllInOneActivity"
+        image="calendar"/>
+
+    <!-- Clock -->
+    <AppIcon
+        name="com.android.deskclock/com.android.deskclock.DeskClock"
+        image="clock"/>
+
+    <!-- Email -->
+    <AppIcon
+        name="com.android.email/com.android.email.activity.Welcome"
+        image="email"/>
+
+    <!-- Gallery -->
+    <AppIcon
+        name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity"
+        image="gallery_aosp"/>
+
+    <!-- Magisk Manager -->
+    <AppIcon
+        name="com.topjohnwu.magisk/com.topjohnwu.magisk.MainActivity"
+        image="magisk_manager"/>
+
+    <!-- Messaging -->
+    <AppIcon
+        name="com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity"
+        image="messaging"/>
 </Theme>

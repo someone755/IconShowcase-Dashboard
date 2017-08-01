@@ -22,51 +22,13 @@
     <version>1</version>
 
     <category title="Latest"/>
-    <item drawable="camera"/>
-    <item drawable="clock"/>
-    <item drawable="colordict"/>
-    <item drawable="contacts"/>
-    <item drawable="cycledroid"/>
-    <item drawable="discord"/>
-    <item drawable="docs"/>
-    <item drawable="drive"/>
-    <item drawable="fdroid"/>
-    <item drawable="files"/>
-    <item drawable="financius"/>
-    <item drawable="fm_radio"/>
-    <item drawable="gallery"/>
-    <item drawable="hangouts"/>
-    <item drawable="imgur"/>
-    <item drawable="inbox"/>
-    <item drawable="keep"/>
-    <item drawable="leandroid"/>
-    <item drawable="lite"/>
-    <item drawable="lucky_patcher"/>
-    <item drawable="maps"/>
-    <item drawable="messages"/>
-    <item drawable="monospace"/>
-    <item drawable="moon_plus_reader"/>
-    <item drawable="music"/>
-    <item drawable="mx_player"/>
-    <item drawable="mx_player_alt"/>
-    <item drawable="nova_launcher"/>
-    <item drawable="nova_launcher_prime"/>
-    <item drawable="phone"/>
-    <item drawable="phonograph"/>
-    <item drawable="photos"/>
-    <item drawable="play_games"/>
-    <item drawable="play_store"/>
-    <item drawable="recorder"/>
-    <item drawable="sd_maid"/>
-    <item drawable="settings"/>
-    <item drawable="sim_toolkit"/>
-    <item drawable="sleep"/>
-    <item drawable="sms_backup_and_restore"/>
-    <item drawable="solid_explorer"/>
-    <item drawable="supersu"/>
-    <item drawable="sync"/>
-    <item drawable="telegram"/>
-    <item drawable="titanium_backup"/>
+    <item drawable="browser"/>
+    <item drawable="calculator_aosp"/>
+    <item drawable="calendar"/>
+    <item drawable="email"/>
+    <item drawable="gallery_aosp"/>
+    <item drawable="magisk_manager"/>
+    <item drawable="messaging"/>
 
 
 
@@ -82,7 +44,11 @@
     <item drawable="analytics"/>
     <item drawable="audiofx"/>
     <item drawable="betterbatterystats"/>
+    <item drawable="brightness_tweak"/>
+    <item drawable="browser"/>
     <item drawable="calculator"/>
+    <item drawable="calculator_aosp"/>
+    <item drawable="calendar"/>
     <item drawable="camera"/>
     <item drawable="cf_lumen"/>
     <item drawable="chrome"/>
@@ -93,12 +59,14 @@
     <item drawable="discord"/>
     <item drawable="docs"/>
     <item drawable="drive"/>
+    <item drawable="email"/>
     <item drawable="fdroid"/>
     <item drawable="files"/>
     <item drawable="financius"/>
     <item drawable="firefox"/>
     <item drawable="fm_radio"/>
     <item drawable="gallery"/>
+    <item drawable="gallery_aosp"/>
     <item drawable="gmail"/>
     <item drawable="google_calendar"/>
     <item drawable="google_calendar_1"/>
@@ -143,8 +111,10 @@
     <item drawable="lightning"/>
     <item drawable="lite"/>
     <item drawable="lucky_patcher"/>
+    <item drawable="magisk_manager"/>
     <item drawable="maps"/>
     <item drawable="messages"/>
+    <item drawable="messaging"/>
     <item drawable="messenger"/>
     <item drawable="monospace"/>
     <item drawable="moon_plus_reader"/>
