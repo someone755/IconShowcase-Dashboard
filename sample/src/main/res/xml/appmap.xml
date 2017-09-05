@@ -19,454 +19,231 @@
   -->
 
 <appmap>
+    <item class="io.github.lonamiwebs.klooni.AndroidLauncher" name="a_1010_klooni" />
 
-    <!-- AdAway -->
-    <item
-        class="org.adaway.ui.BaseActivity"
-        name="adaway"/>
-
-    <!-- Analytics -->
-    <item
-        class="com.google.android.apps.giant.activity.LauncherActivity"
-        name="analytics"/>
-
-    <!-- AudioFX -->
-    <item
-        class="org.cyanogenmod.audiofx.activity.ActivityMusic"
-        name="audiofx"/>
-
-    <!-- BetterBatteryStats -->
-    <item
-        class="com.asksven.betterbatterystats.StatsActivity"
-        name="betterbatterystats"/>
-
-    <!-- Brightness Tweak -->
-    <item
-        class="bw.com.brighness.activities.TweakSettingsActivity"
-        name="brightness_tweak"/>
-
-    <!-- CF.lumen -->
-    <item
-        class="eu.chainfire.lumen.ui.MainActivity"
-        name="cf_lumen"/>
-
-    <!-- Calculator -->
-    <item
-        class="com.xlythe.calculator.holo.Calculator"
-        name="calculator"/>
-
-    <!-- Calendar -->
-    <item
-        class="com.android.calendar.AllInOneActivity"
-        name="google_calendar"/>
-
-    <!-- Camera -->
-    <item
-        class="com.android.camera.CameraLauncher"
-        name="camera"/>
-
-    <!-- Chrome -->
-    <item
-        class="com.google.android.apps.chrome.Main"
-        name="chrome"/>
-
-    <!-- Clock -->
-    <item
-        class="com.android.deskclock.DeskClock"
-        name="clock"/>
-
-    <!-- ColorDict -->
-    <item
-        class="com.socialnmobile.colordict.activity.Main"
-        name="colordict"/>
-
-    <!-- Contacts -->
-    <item
-        class="com.android.contacts.activities.PeopleActivity"
-        name="contacts"/>
-
-    <!-- CycleDroid -->
-    <item
-        class="com.maral.cycledroid.activity.tripslist.TripsListActivity"
-        name="cycledroid"/>
-
-    <!-- Discord -->
-    <item
-        class="com.discord.screens.ScreenAux$Main"
-        name="discord"/>
-
-    <!-- Docs -->
-    <item
-        class="com.google.android.apps.docs.app.NewMainProxyActivity"
-        name="docs"/>
-
-    <!-- Drive -->
-    <item
-        class="com.google.android.apps.docs.app.NewMainProxyActivity"
-        name="drive"/>
-
-    <!-- F-Droid -->
-    <item
-        class="org.fdroid.fdroid.FDroid"
-        name="fdroid"/>
-
-    <!-- FM Radio -->
-    <item
-        class="com.android.fmradio.FmMainActivity"
-        name="fm_radio"/>
-
-    <!-- Files -->
-    <item
-        class="com.android.documentsui.LauncherActivity"
-        name="files"/>
-
-    <!-- Financius -->
-    <item
-        class="com.code44.finance.ui.common.activities.SplashActivity"
-        name="financius"/>
-
-    <!-- Firefox -->
-    <item
-        class="org.mozilla.firefox.App"
-        name="firefox"/>
-
-    <!-- Gallery -->
-    <item
-        class="com.simplemobiletools.gallery.activities.SplashActivity"
-        name="gallery"/>
-
-    <!-- Gmail -->
-    <item
-        class="com.google.android.gm.ConversationListActivityGmail"
-        name="gmail"/>
-
-    <!-- Hangouts -->
-    <item
-        class="com.google.android.talk.SigningInActivity"
-        name="hangouts"/>
-
-    <!-- Imgur -->
-    <item
-        class="com.imgur.mobile.Launcher"
-        name="imgur"/>
-
-    <!-- Inbox -->
-    <item
-        class="com.google.android.apps.bigtop.activities.InitActivity"
-        name="inbox"/>
-
-    <!-- Instagram -->
-    <item
-        class="com.instagram.android.activity.MainTabActivity"
-        name="instagram"/>
-
-    <!-- Keep -->
-    <item
-        class="com.google.android.keep.activities.BrowseActivity"
-        name="keep"/>
-
-    <!-- Kernel Adiutor -->
-    <item
-        class="com.grarak.kerneladiutor.activities.StartActivity"
-        name="kernel_adiutor"/>
-
-    <!-- LeanDroid -->
-    <item
-        class="com.teqtic.leandata.ui.SettingsActivity"
-        name="leandroid"/>
-
-    <!-- Lightning -->
-    <item
-        class="acr.browser.lightning.MainActivity"
-        name="lightning"/>
-
-    <!-- Lite -->
-    <item
-        class="com.facebook.mlite.coreui.view.MainActivity"
-        name="lite"/>
-
-    <!-- Lucky Patcher -->
-    <item
-        class="com.android.vending.billing.InAppBillingService.LOCK.MainActivity-Original"
-        name="lucky_patcher"/>
-    <item
-        class="com.android.vending.billing.InAppBillingService.CLON.MainActivity-Original"
-        name="lucky_patcher"/>
-
-    <!-- MX Player -->
-    <item
-        class="com.mxtech.videoplayer.ad.ActivityMediaList"
-        name="mx_player"/>
-
-    <!-- Maps -->
-    <item
-        class="com.google.android.maps.MapsActivity"
-        name="maps"/>
-
-    <!-- Messages -->
-    <item
-        class="com.google.android.apps.messaging.ui.ConversationListActivity"
-        name="messages"/>
-
-    <!-- Messenger -->
-    <item
-        class="com.facebook.orca.auth.StartScreenActivity"
-        name="messenger"/>
-
-    <!-- Monospace -->
-    <item
-        class="com.underwood.monospace.library.LibraryActivity"
-        name="monospace"/>
-
-    <!-- Moon+ Reader -->
-    <item
-        class="com.flyersoft.moonreader.ActivityMain"
-        name="moon+_reader"/>
-
-    <!-- Moonrise Icon Pack -->
-    <item
-        class="com.monarchdesigns.moonriseiconpack.HomeActivity"
-        name="moonrise_icon_pack"/>
-
-    <!-- Music -->
-    <item
-        class="com.cyanogenmod.eleven.ui.activities.HomeActivity"
-        name="music"/>
-
-    <!-- My Expenses -->
-    <item
-        class="org.totschnig.myexpenses.activity.SplashActivity"
-        name="my_expenses"/>
-
-    <!-- Nova Launcher -->
-    <item
-        class="com.teslacoilsw.launcher.NovaShortcutHandler"
-        name="nova_launcher"/>
-
-    <!-- Nova Launcher Prime -->
-    <item
-        class="com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity"
-        name="nova_launcher_prime"/>
-
-    <!-- Phone -->
-    <item
-        class="com.android.dialer.DialtactsActivity"
-        name="phone"/>
-
-    <!-- Phonograph -->
-    <item
-        class="com.kabouzeid.gramophone.ui.activities.MainActivity"
-        name="phonograph"/>
-
-    <!-- Photos -->
-    <item
-        class="com.google.android.apps.photos.home.HomeActivity"
-        name="photos"/>
-
-    <!-- Play Games -->
-    <item
-        class="com.google.android.gms.games.ui.destination.main.MainActivity"
-        name="play_games"/>
-
-    <!-- Play Store -->
-    <item
-        class="com.android.vending.AssetBrowserActivity"
-        name="play_store"/>
-
-    <!-- Recorder -->
-    <item
-        class="org.lineageos.recorder.RecorderActivity"
-        name="recorder"/>
-
-    <!-- SD Maid -->
-    <item
-        class="eu.thedarken.sdm.SDMMainActivity"
-        name="sd_maid"/>
-
-    <!-- SIM Toolkit -->
-    <item
-        class="com.android.stk.StkMain"
-        name="sim_toolkit"/>
-
-    <!-- SMS Backup & Restore -->
-    <item
-        class="com.riteshsahu.SMSBackupRestore.activities.MainActivity"
-        name="sms_backup_and_restore"/>
-    <item
-        class="com.riteshsahu.SMSBackupRestore.activities.IntroActivity"
-        name="sms_backup_and_restore"/>
-
-    <!-- Settings -->
-    <item
-        class="com.android.settings.Settings"
-        name="settings"/>
-
-    <!-- Sleep -->
-    <item
-        class="com.urbandroid.sleep.alarmclock.AlarmClock"
-        name="sleep"/>
-
-    <!-- Solid Explorer -->
-    <item
-        class="pl.solidexplorer.SolidExplorer"
-        name="solid_explorer"/>
-
-    <!-- Steam -->
-    <item
-        class="com.valvesoftware.android.steam.community.activity.MainActivity"
-        name="steam"/>
-
-    <!-- Strava -->
-    <item
-        class="com.strava.SplashActivity"
-        name="strava"/>
-
-    <!-- SuperSU -->
-    <item
-        class="eu.chainfire.supersu.MainActivity-Material"
-        name="supersu"/>
-
-    <!-- SwiftKey Keyboard -->
-    <item
-        class="com.touchtype.LauncherActivity-Icon"
-        name="swiftkey_keyboard"/>
-
-    <!-- Sync -->
-    <item
-        class="com.laurencedawson.reddit_sync.ui.activities.HomeActivity"
-        name="sync"/>
-
-    <!-- Telegram -->
-    <item
-        class="org.telegram.ui.LaunchActivity"
-        name="telegram"/>
-
-    <!-- Titanium Backup -->
-    <item
-        class="com.keramidas.TitaniumBackup.MainActivity"
-        name="titanium_backup"/>
-
-    <!-- YouTube -->
-    <item
-        class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
-        name="youtube"/>
-
-    <!-- reddit is fun -->
-    <item
-        class="com.andrewshu.android.reddit.MainActivity"
-        name="reddit_is_fun"/>
-
-    <!-- Browser -->
-    <item
-        class="org.lineageos.jelly.MainActivity"
-        name="browser"/>
-
-    <!-- Calculator -->
-    <item
-        class="com.android.calculator2.Calculator"
-        name="calculator_aosp"/>
-
-    <!-- Calendar -->
-    <item
-        class="com.android.calendar.AllInOneActivity"
-        name="calendar"/>
-
-    <!-- Clock -->
-    <item
-        class="com.android.deskclock.DeskClock"
-        name="clock"/>
-
-    <!-- Email -->
-    <item
-        class="com.android.email.activity.Welcome"
-        name="email"/>
-
-    <!-- Gallery -->
-    <item
-        class="com.android.gallery3d.app.GalleryActivity"
-        name="gallery_aosp"/>
-
-    <!-- Magisk Manager -->
-    <item
-        class="com.topjohnwu.magisk.MainActivity"
-        name="magisk_manager"/>
-    <item
-        class="com.topjohnwu.magisk.SplashActivity"
-        name="magisk_manager"/>
-
-    <!-- Messaging -->
-    <item
-        class="com.android.messaging.ui.conversationlist.ConversationListActivity"
-        name="messaging"/>
-
-    <!-- 1010! Klooni -->
-    <item
-        class="io.github.lonamiwebs.klooni.AndroidLauncher"
-        name="a_1010_klooni"/>
-
-    <!-- Duolingo -->
-    <item
-        class="com.duolingo.app.LoginActivity"
-        name="duolingo"/>
-
-    <!-- Hypocam -->
-    <item
-        class="com.xnview.hypocam.MainActivity"
-        name="hypocam"/>
-
-    <!-- JotterPad -->
-    <item
-        class="com.jotterpad.x.MainActivity"
-        name="jotterpad"/>
-
-    <!-- Learn C++ -->
-    <item
-        class="com.sololearn.app.MainActivity"
-        name="learn_cpp"/>
-
-    <!-- Learn Java -->
-    <item
-        class="com.sololearn.app.MainActivity"
-        name="learn_java"/>
-
-    <!-- Loop Habit Tracker -->
-    <item
-        class="org.isoron.uhabits.MainActivity"
-        name="loop_habit_tracker"/>
-
-    <!-- Lucidity -->
-    <item
-        class="ch.b3nz.lucidity.activities.SplashActivity"
-        name="lucidity"/>
-
-    <!-- Play Music -->
-    <item
-        class="com.android.music.activitymanagement.TopLevelActivity"
-        name="play_music"/>
-
-    <!-- Slide -->
-    <item
-        class="me.ccrama.redditslide.Activities.Slide"
-        name="slide"/>
-
-    <!-- Snapchat -->
-    <item
-        class="com.snapchat.android.LandingPageActivity"
-        name="snapchat"/>
-
-    <!-- Terminal -->
-    <item
-        class="com.android.terminal.TerminalActivity"
-        name="terminal"/>
-
-    <!-- WriterP -->
-    <item
-        class="co.easy4u.writer.ui.DirListActivity"
-        name="writerp"/>
-
-    <!-- iA Writer -->
-    <item
-        class="net.ia.iawriter.utilities.SplashActivity"
-        name="ia_writer"/>
+    <item class="org.adaway.ui.BaseActivity" name="adaway" />
 
+    <item class="com.google.android.apps.giant.activity.LauncherActivity" name="analytics" />
+
+    <item class="org.cyanogenmod.audiofx.activity.ActivityMusic" name="audiofx" />
+
+    <item class="com.asksven.betterbatterystats.StatsActivity" name="betterbatterystats" />
+
+    <item class="com.htc.pitroad.landingpage.activity.LandingPageActivity" name="boost_plus" />
+
+    <item class="com.google.android.apps.chrome.Main" name="brave" />
+
+    <item class="bw.com.brighness.activities.TweakSettingsActivity" name="brightness_tweak" />
+
+    <item class="org.lineageos.jelly.MainActivity" name="browser" />
+
+    <item class="com.xlythe.calculator.holo.Calculator" name="calculator" />
+
+    <item class="com.android.calculator2.Calculator" name="calculator_aosp" />
+
+    <item class="com.android.calendar.AllInOneActivity" name="calendar" />
+
+    <item class="com.android.camera.CameraLauncher" name="camera" />
+
+    <item class="com.htc.camera.CameraEntry" name="camera_htc" />
+
+    <item class="eu.chainfire.lumen.ui.MainActivity" name="cf_lumen" />
+
+    <item class="com.google.android.apps.chrome.Main" name="chrome" />
+
+    <item class="com.android.deskclock.DeskClock" name="clock" />
+
+    <item class="com.android.deskclock.DeskClock" name="clock" />
+
+    <item class="com.htc.android.worldclock.WorldClockTabControl" name="clock_htc" />
+
+    <item class="com.socialnmobile.colordict.activity.Main" name="colordict" />
+
+    <item class="com.android.contacts.activities.PeopleActivity" name="contacts" />
+
+    <item class="com.maral.cycledroid.activity.tripslist.TripsListActivity" name="cycledroid" />
+
+    <item class="org.billthefarmer.diary.Diary" name="diary" />
+
+    <item class="com.discord.screens.ScreenAux$Main" name="discord" />
+
+    <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="docs" />
+
+    <item class="com.google.android.apps.docs.app.NewMainProxyActivity" name="drive" />
+
+    <item class="com.google.android.apps.tachyon.MainActivity" name="duo" />
+
+    <item class="com.duolingo.app.LoginActivity" name="duolingo" />
+
+    <item class="com.android.email.activity.Welcome" name="email" />
+
+    <item class="com.estrongs.android.pop.view.FileExplorerActivity" name="es_file_explorer_pro" />
+
+    <item class="com.voxel.launcher3.Launcher" name="evie" />
+
+    <item class="org.fdroid.fdroid.FDroid" name="fdroid" />
+
+    <item class="com.android.documentsui.LauncherActivity" name="files" />
+
+    <item class="com.code44.finance.ui.common.activities.SplashActivity" name="financius" />
+
+    <item class="org.mozilla.firefox.App" name="firefox" />
+
+    <item class="com.android.fmradio.FmMainActivity" name="fm_radio" />
+
+    <item class="com.simplemobiletools.gallery.activities.SplashActivity" name="gallery" />
+
+    <item class="com.android.gallery3d.app.GalleryActivity" name="gallery_aosp" />
+
+    <item class="com.google.android.gm.ConversationListActivityGmail" name="gmail" />
+
+    <item class="com.google.android.googlequicksearchbox.SearchActivity" name="google" />
+
+    <item class="com.android.calendar.AllInOneActivity" name="google_calendar" />
+
+    <item class="com.google.android.talk.SigningInActivity" name="hangouts" />
+
+    <item class="com.xnview.hypocam.MainActivity" name="hypocam" />
+
+    <item class="net.ia.iawriter.utilities.SplashActivity" name="ia_writer" />
+
+    <item class="com.imgur.mobile.Launcher" name="imgur" />
+
+    <item class="com.google.android.apps.bigtop.activities.InitActivity" name="inbox" />
+
+    <item class="com.instagram.android.activity.MainTabActivity" name="instagram" />
+
+    <item class="com.jotterpad.x.MainActivity" name="jotterpad" />
+
+    <item class="com.google.android.keep.activities.BrowseActivity" name="keep" />
+
+    <item class="com.grarak.kerneladiutor.activities.StartActivity" name="kernel_adiutor" />
+
+    <item class="com.scrdev.pg.kokotimeapp.ActivityMainAppMenu" name="kokotime" />
+
+    <item class="com.teqtic.leandata.ui.SettingsActivity" name="leandroid" />
+
+    <item class="com.sololearn.app.MainActivity" name="learn_cpp" />
+
+    <item class="com.sololearn.app.MainActivity" name="learn_java" />
+
+    <item class="acr.browser.lightning.MainActivity" name="lightning" />
+
+    <item class="com.facebook.mlite.coreui.view.MainActivity" name="lite" />
+
+    <item class="org.isoron.uhabits.MainActivity" name="loop_habit_tracker" />
+
+    <item class="ch.b3nz.lucidity.activities.SplashActivity" name="lucidity" />
+
+    <item class="com.android.vending.billing.InAppBillingService.LOCK.MainActivity-Original" name="lucky_patcher" />
+
+    <item class="com.android.vending.billing.InAppBillingService.CLON.MainActivity-Original" name="lucky_patcher" />
+
+    <item class="com.topjohnwu.magisk.MainActivity" name="magisk_manager" />
+
+    <item class="com.topjohnwu.magisk.SplashActivity" name="magisk_manager" />
+
+    <item class="com.google.android.maps.MapsActivity" name="maps" />
+
+    <item class="com.google.android.apps.messaging.ui.ConversationListActivity" name="messages" />
+
+    <item class="com.android.messaging.ui.conversationlist.ConversationListActivity" name="messaging" />
+
+    <item class="com.facebook.orca.auth.StartScreenActivity" name="messenger" />
+
+    <item class="com.underwood.monospace.library.LibraryActivity" name="monospace" />
+
+    <item class="com.flyersoft.moonreader.ActivityMain" name="moon+_reader" />
+
+    <item class="com.monarchdesigns.moonriseiconpack.HomeActivity" name="moonrise_icon_pack" />
+
+    <item class="com.cyanogenmod.eleven.ui.activities.HomeActivity" name="music" />
+
+    <item class="com.mxtech.videoplayer.ad.ActivityMediaList" name="mx_player" />
+
+    <item class="org.totschnig.myexpenses.activity.SplashActivity" name="my_expenses" />
+
+    <item class="com.teslacoilsw.launcher.NovaShortcutHandler" name="nova_launcher" />
+
+    <item class="com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity" name="nova_launcher_prime" />
+
+    <item class="com.android.dialer.DialtactsActivity" name="phone" />
+
+    <item class="com.google.android.dialer.extensions.GoogleDialtactsActivity" name="phone_google" />
+
+    <item class="com.htc.contacts.DialerTabActivity" name="phone_htc" />
+
+    <item class="com.htc.contacts.BrowseLayerCarouselActivity" name="phone_htc" />
+
+    <item class="com.kabouzeid.gramophone.ui.activities.MainActivity" name="phonograph" />
+
+    <item class="com.google.android.apps.photos.home.HomeActivity" name="photos" />
+
+    <item class="com.google.android.gms.games.ui.destination.main.MainActivity" name="play_games" />
+
+    <item class="com.android.music.activitymanagement.TopLevelActivity" name="play_music" />
+
+    <item class="com.android.music.activitymanagement.TopLevelActivity" name="play_music" />
+
+    <item class="com.android.vending.AssetBrowserActivity" name="play_store" />
+
+    <item class="au.com.shiftyjelly.pocketcasts.ui.MainActivity" name="pocket_casts" />
+
+    <item class="org.lineageos.recorder.RecorderActivity" name="recorder" />
+
+    <item class="com.andrewshu.android.reddit.MainActivity" name="reddit_is_fun" />
+
+    <item class="reddit.news.RedditNavigation" name="relay_pro" />
+
+    <item class="code.name.monkey.retromusic.ui.activities.main.MainActivity" name="retro_music" />
+
+    <item class="com.superthomaslab.rootessentials.main_screen.MainActivity" name="root_essentials" />
+
+    <item class="eu.thedarken.sdm.SDMMainActivity" name="sd_maid" />
+
+    <item class="com.android.settings.Settings" name="settings" />
+
+    <item class="com.android.stk.StkMain" name="sim_toolkit" />
+
+    <item class="com.urbandroid.sleep.alarmclock.AlarmClock" name="sleep" />
+
+    <item class="me.ccrama.redditslide.Activities.Slide" name="slide" />
+
+    <item class="com.riteshsahu.SMSBackupRestore.activities.MainActivity" name="sms_backup_and_restore" />
+
+    <item class="com.riteshsahu.SMSBackupRestore.activities.IntroActivity" name="sms_backup_and_restore" />
+
+    <item class="com.snapchat.android.LandingPageActivity" name="snapchat" />
+
+    <item class="com.google.android.apps.snapseed.MainActivity" name="snapseed" />
+
+    <item class="pl.solidexplorer.SolidExplorer" name="solid_explorer" />
+
+    <item class="com.spotify.music.MainActivity" name="spotify" />
+
+    <item class="com.valvesoftware.android.steam.community.activity.MainActivity" name="steam" />
+
+    <item class="com.strava.SplashActivity" name="strava" />
+
+    <item class="eu.chainfire.supersu.MainActivity-Material" name="supersu" />
+
+    <item class="com.touchtype.LauncherActivity-Icon" name="swiftkey_keyboard" />
+
+    <item class="com.laurencedawson.reddit_sync.ui.activities.HomeActivity" name="sync" />
+
+    <item class="org.telegram.ui.LaunchActivity" name="telegram" />
+
+    <item class="com.android.terminal.TerminalActivity" name="terminal" />
+
+    <item class="com.keramidas.TitaniumBackup.MainActivity" name="titanium_backup" />
+
+    <item class="com.mizmowireless.vvm.screen.MainSetupActivity" name="visual_voicemail" />
+
+    <item class="com.samruston.weather.MainActivity" name="weather_timeline" />
+
+    <item class="co.easy4u.writer.ui.DirListActivity" name="writerp" />
+
+    <item class="com.xda.labs.LabsLauncher" name="xda_labs" />
+
+    <item class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity" name="youtube" />
 </appmap>

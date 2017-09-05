@@ -2,35 +2,40 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <string-array name="Latest">
-        <item>a_1010_klooni</item>
-        <item>browser</item>
-        <item>calculator_aosp</item>
-        <item>calendar</item>
-        <item>duolingo</item>
-        <item>email</item>
-        <item>gallery_aosp</item>
-        <item>gallery_aosp</item>
-        <item>hypocam</item>
-        <item>ia_writer</item>
-        <item>jotterpad</item><item>browser</item>
-        <item>learn_cpp</item>
-        <item>learn_java</item>
-        <item>loop_habit_tracker</item>
-        <item>lucidity</item>
-        <item>magisk_manager</item>
-        <item>messaging</item>
-        <item>play_music</item><item>browser</item>
-        <item>slide</item>
-        <item>snapchat</item>
-        <item>terminal</item>
-        <item>writerp</item>
+        <item>boost_plus</item>
+        <item>brave</item>
+        <item>camera_htc</item>
+        <item>clock_htc</item>
+        <item>contacts_google</item>
+        <item>diary</item>
+        <item>duo</item>
+        <item>es_file_explorer_pro</item>
+        <item>evie</item>
+        <item>google</item>
+        <item>kokotime</item>
+        <item>phone_google</item>
+        <item>phone_htc</item>
+        <item>play_music</item>
+        <item>pocket_casts</item>
+        <item>pocket_casts_alt</item>
+        <item>relay_pro</item>
+        <item>retro_music</item>
+        <item>root_essentials</item>
+        <item>snapseed</item>
+        <item>spotify</item>
+        <item>spotify_alt</item>
+        <item>visual_voice_mail</item>
+        <item>weather_timeline</item>
+        <item>xda_labs</item>
 
     </string-array>
 
     <string-array name="Alternatives">
         <item>kernel_adiutor_alt</item>
         <item>mx_player_alt</item>
+        <item>pocket_casts_alt</item>
         <item>reddit_is_fun_alt</item>
+        <item>spotify_alt</item>
         <item>youtube_alt</item>
     </string-array>
 
@@ -40,23 +45,32 @@
         <item>analytics</item>
         <item>audiofx</item>
         <item>betterbatterystats</item>
+        <item>boost_plus</item>
+        <item>brave</item>
         <item>brightness_tweak</item>
         <item>browser</item>
         <item>calculator</item>
         <item>calculator_aosp</item>
         <item>calendar</item>
         <item>camera</item>
+        <item>camera_htc</item>
         <item>cf_lumen</item>
         <item>chrome</item>
         <item>clock</item>
+        <item>clock_htc</item>
         <item>colordict</item>
         <item>contacts</item>
+        <item>contacts_google</item>
         <item>cycledroid</item>
+        <item>diary</item>
         <item>discord</item>
         <item>docs</item>
         <item>drive</item>
+        <item>duo</item>
         <item>duolingo</item>
         <item>email</item>
+        <item>es_file_explorer_pro</item>
+        <item>evie</item>
         <item>facebook_messenger</item>
         <item>fdroid</item>
         <item>files</item>
@@ -65,8 +79,8 @@
         <item>fm_radio</item>
         <item>gallery</item>
         <item>gallery_aosp</item>
-        <item>gallery_aosp</item>
         <item>gmail</item>
+        <item>google</item>
         <item>google_calendar</item>
         <item>google_calendar_10</item>
         <item>google_calendar_11</item>
@@ -109,6 +123,7 @@
         <item>keep</item>
         <item>kernel_adiutor</item>
         <item>kernel_adiutor_alt</item>
+        <item>kokotime</item>
         <item>leandroid</item>
         <item>learn_cpp</item>
         <item>learn_java</item>
@@ -130,14 +145,21 @@
         <item>nova_launcher</item>
         <item>nova_launcher_prime</item>
         <item>phone</item>
+        <item>phone_google</item>
+        <item>phone_htc</item>
         <item>phonograph</item>
         <item>photos</item>
         <item>play_games</item>
-        <item>play_music</item><item>browser</item>
+        <item>play_music</item>
         <item>play_store</item>
+        <item>pocket_casts</item>
+        <item>pocket_casts_alt</item>
         <item>recorder</item>
         <item>reddit_is_fun</item>
         <item>reddit_is_fun_alt</item>
+        <item>relay_pro</item>
+        <item>retro_music</item>
+        <item>root_essentials</item>
         <item>sd_maid</item>
         <item>settings</item>
         <item>sim_toolkit</item>
@@ -145,7 +167,10 @@
         <item>slide</item>
         <item>sms_backup_and_restore</item>
         <item>snapchat</item>
+        <item>snapseed</item>
         <item>solid_explorer</item>
+        <item>spotify</item>
+        <item>spotify_alt</item>
         <item>steam</item>
         <item>strava</item>
         <item>supersu</item>
@@ -154,7 +179,10 @@
         <item>telegram</item>
         <item>terminal</item>
         <item>titanium_backup</item>
+        <item>visual_voice_mail</item>
+        <item>weather_timeline</item>
         <item>writerp</item>
+        <item>xda_labs</item>
         <item>youtube</item>
         <item>youtube_alt</item>
     </string-array>
